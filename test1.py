@@ -4,3 +4,6 @@
 
 test = "print dit maar uit"
 print (test)
+
+test1 = "print dit dan ook maar ..."
+print (test1)
